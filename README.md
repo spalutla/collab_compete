@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ## RL Problem Environment
 This project uses Reacher environment, from Unity.
 
-![Alt Text](https://classroom.udacity.com/nanodegrees/nd893/parts/ec710e48-f1c5-4f1c-82de-39955d168eaa/modules/89b85bd0-0add-4548-bce9-3747eb099e60/lessons/3cf5c0c4-e837-4fe6-8071-489dcdb3ab3e/concepts/da65c741-cdeb-4f34-bb56-d8977385596e#)
+![GitHub Logo](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/images/tennis.png)
 
 In this environment, two agents control rackets to bounce a ball over a net. If an agent hits the ball over the net, it receives a reward of +0.1. If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01. Thus, the goal of each agent is to keep the ball in play.
 
