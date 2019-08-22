@@ -9,9 +9,11 @@ pip install -r requirements.txt
 ```
 
 ## RL Problem Environment
-This project uses Reacher environment, from Unity.
+This project uses Tennis environment, from Unity.
 
 ![GitHub Logo](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/images/tennis.png)
+
+The Tennis environment can be downloaded here: [Tennis Environment on Mac](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)
 
 In this environment, two agents control rackets to bounce a ball over a net. If an agent hits the ball over the net, it receives a reward of +0.1. If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01. Thus, the goal of each agent is to keep the ball in play.
 
